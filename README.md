@@ -80,7 +80,7 @@ Z AXIS ROD : The z-axis rod is responsible for supporting the weight of the prin
 Z AXIS TOP COVER : The primary purpose of the z-axis top cover is to prevent dust and debris from settling on the z-axis rod, which can cause damage to the rod and the bearings that guide it
 
 MOTOR : motor is help to movement of the print head along x,y,z axes.
-
+![image](https://github.com/Vaishnavi-saravanan/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/118541897/3d1efb35-7dfb-4924-801e-8c3032268e04)
 COMPLETE ASSEMBLY
 FRAME : rigid structure that holds all the other components of the printer.
 
@@ -100,6 +100,7 @@ SPOOL : A spool refers to a roll of filament that is used as the printing materi
 
 PLAYING WITH AXES
 
+![image](https://github.com/Vaishnavi-saravanan/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/118541897/65c2da3e-37b4-45c2-a9b9-ef3fc9aaaecb)
 
 
 
