@@ -57,8 +57,9 @@ EXTRUDER : Extruder is used to melting and extruding the filament onto the print
 
 MOTOR : Motor is help to movement of the print head along x,y,z axes.
 
-Y AXIS ASSEMBLY
-![image](https://github.com/Vaishnavi-saravanan/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/118541897/030d183d-0c1f-45b1-9d31-aafa7edd7a40)
+Y AXIS ASSEMBLY![image](https://github.com/Vaishnavi-saravanan/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/118541897/6bf868e6-77c4-414f-8799-66ea87a7f578)
+![image](https://github.com/Vaishnavi-saravanan/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/118541897/0fa714a0-380f-4f56-9a95-769872139659)
+
 Y AXIS SUPPORTER The Y-axis supporter must be designed to withstand the forces generated during printing and maintain the printer's accuracy and stability.
 
 Horiz. & Vertical Threaded Rod : The horizontal threaded rod is typically used to hold the pulley that drives the movement of the print bed along the Y-axis.The vertical threaded rod is typically used to control the Z-axis movement of the print bed
