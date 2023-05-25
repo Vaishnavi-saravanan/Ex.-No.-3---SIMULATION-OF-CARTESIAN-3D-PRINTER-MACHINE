@@ -48,11 +48,67 @@
 ###   3.	Move the z-axis slider or enter the value (within the given range) in the given text box and press/select ENTER. Now observe the movement of the z-axis assembly.
 
 ## OUTPUT
-![Screenshot 2023-05-18 183315](https://github.com/Vaishnavi-saravanan/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/118541897/25fccc5b-51f4-4437-9071-ece06f27cbce)
-![Screenshot 2023-05-18 183332](https://github.com/Vaishnavi-saravanan/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/118541897/1cddeadc-fa4d-4737-a08b-be7e27ce4b7e)
-![Screenshot 2023-05-18 183345](https://github.com/Vaishnavi-saravanan/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/118541897/ad798301-20e7-40a4-a861-b85c9697669b)
-![Screenshot 2023-05-18 183414](https://github.com/Vaishnavi-saravanan/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/118541897/a0a4e08d-759d-4af6-ab0d-a0f0e06c12d2)
-![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/e00b82b4-9aff-400f-9c57-288254dc3cd2)
+![image](https://github.com/Vaishnavi-saravanan/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/118541897/bc26c2b9-e630-4abf-8ed6-5933d2ada7b8)
+SMOOTH ROD: A smooth rod typically refers to a cylindrical rod made of a smooth and rigid material, such as steel or aluminum. It is commonly used as a linear motion guide or a support component in the construction of 3D printers, particularly in the printer's gantry or carriage system.
+
+BEARING : Bearings refer to mechanical components used to facilitate smooth and low-friction movement of various parts within a 3D printer. They help to reduce friction and enable precise motion along linear axes, ensuring accurate and reliable operation of the printer's moving parts. IDLER : The idler pulley helps to guide the belt along its path, reducing the chances of the belt slipping or jumping teeth and causing print defects.
+
+EXTRUDER : Extruder is used to melting and extruding the filament onto the print bed
+
+MOTOR : Motor is help to movement of the print head along x,y,z axes.
+
+Y AXIS ASSEMBLY
+![image](https://github.com/Vaishnavi-saravanan/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/118541897/030d183d-0c1f-45b1-9d31-aafa7edd7a40)
+Y AXIS SUPPORTER The Y-axis supporter must be designed to withstand the forces generated during printing and maintain the printer's accuracy and stability.
+
+Horiz. & Vertical Threaded Rod : The horizontal threaded rod is typically used to hold the pulley that drives the movement of the print bed along the Y-axis.The vertical threaded rod is typically used to control the Z-axis movement of the print bed
+
+SMOOTH ROD : The use of smooth rods in the printer's Y-axis mechanism helps to provide smooth and precise movement of the print bed
+
+PULLEY : pulley is often used in the Y-axis mechanism to transfer motion from the printer's stepper motor to the print bed.
+
+MOTOR : motor is help to movement of the print head along x,y,z axes
+
+Y AXIS FRAME : It is responsible for support and stability of y axis frame.and also z axis.
+
+Y AXIS BASE : The Y-axis base is responsible for providing stability and support to the entire printer's structure, including the Y-axis frame, the print bed, and the printed bject.
+
+Z AXIS ASSEMBLY
+![image](https://github.com/Vaishnavi-saravanan/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/118541897/227cbad0-73c3-41e8-a6a2-00dcc05cc805)
+Z AXIS ROD : The z-axis rod is responsible for supporting the weight of the print head and controlling its movement as it moves up and down during the printing process
+
+Z AXIS TOP COVER : The primary purpose of the z-axis top cover is to prevent dust and debris from settling on the z-axis rod, which can cause damage to the rod and the bearings that guide it
+
+MOTOR : motor is help to movement of the print head along x,y,z axes.
+
+COMPLETE ASSEMBLY
+FRAME : rigid structure that holds all the other components of the printer.
+
+Y AXIS ASSEMBLY : The Y-axis is responsible for moving the print bed back and forth along the horizontal axis.
+
+Z AXIS ASSEMBLY : The Z-axis is responsible for moving the print head up and down along the vertical axis.
+
+X AXIS ASSEMBLY : The X-axis is responsible for moving the print head back and forth along the horizontal axis.
+
+SMPS : convert ac to dc current.
+
+LCD : LCD screen provides a user-friendly interface that allows the user to control the printer and monitor its progress during printing.
+
+SPOOL HOLDER : It holds spool.
+
+SPOOL : A spool refers to a roll of filament that is used as the printing material for the 3D printer.
+
+PLAYING WITH AXES
+
+
+
+
+
+
+
+
+
+
 
 ## Output:
 ![n13](https://github.com/Vaishnavi-saravanan/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/118541897/50a2c1f3-d6ec-4d6a-827c-bf8fe06255a3)
