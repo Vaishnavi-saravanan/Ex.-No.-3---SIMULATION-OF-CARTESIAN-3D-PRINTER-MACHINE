@@ -57,8 +57,11 @@ EXTRUDER : Extruder is used to melting and extruding the filament onto the print
 
 MOTOR : Motor is help to movement of the print head along x,y,z axes.
 
-Y AXIS ASSEMBLY![image](https://github.com/Vaishnavi-saravanan/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/118541897/6bf868e6-77c4-414f-8799-66ea87a7f578)
-![image](https://github.com/Vaishnavi-saravanan/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/118541897/0fa714a0-380f-4f56-9a95-769872139659)
+Y AXIS ASSEMBLY!
+![image](https://github.com/Vaishnavi-saravanan/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/118541897/832afa41-6293-4f3e-a9f6-43282a1a9226)
+
+
+
 
 Y AXIS SUPPORTER The Y-axis supporter must be designed to withstand the forces generated during printing and maintain the printer's accuracy and stability.
 
@@ -75,7 +78,8 @@ Y AXIS FRAME : It is responsible for support and stability of y axis frame.and a
 Y AXIS BASE : The Y-axis base is responsible for providing stability and support to the entire printer's structure, including the Y-axis frame, the print bed, and the printed bject.
 
 Z AXIS ASSEMBLY
-![image](https://github.com/Vaishnavi-saravanan/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/118541897/227cbad0-73c3-41e8-a6a2-00dcc05cc805)
+![image](https://github.com/Vaishnavi-saravanan/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/118541897/833b4bdc-9312-4198-a43e-0fb5a1a00830)
+
 Z AXIS ROD : The z-axis rod is responsible for supporting the weight of the print head and controlling its movement as it moves up and down during the printing process
 
 Z AXIS TOP COVER : The primary purpose of the z-axis top cover is to prevent dust and debris from settling on the z-axis rod, which can cause damage to the rod and the bearings that guide it
@@ -103,17 +107,6 @@ PLAYING WITH AXES
 
 ![image](https://github.com/Vaishnavi-saravanan/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/118541897/65c2da3e-37b4-45c2-a9b9-ef3fc9aaaecb)
 
-
-
-
-
-
-
-
-
-
-## Output:
-![n13](https://github.com/Vaishnavi-saravanan/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/118541897/50a2c1f3-d6ec-4d6a-827c-bf8fe06255a3)
 
 ### Name: VAISHNAVI S
 ### Register Number: 212222230165
